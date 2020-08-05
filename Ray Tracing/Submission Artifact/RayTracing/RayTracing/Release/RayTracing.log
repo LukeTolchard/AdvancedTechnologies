@@ -1,0 +1,21 @@
+﻿  cos_cubed.cc
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(186,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(187,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cos_density.cc
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(189,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(186,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(187,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cc
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(189,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(186,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(187,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  sphere_importance.cc
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(189,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(186,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(187,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Luke\Desktop\Test\New folder\RayTracing\RayTracing\vec3.h(189,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracing.vcxproj -> C:\Users\Luke\Desktop\Test\New folder\RayTracing\Release\RayTracing.exe
